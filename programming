@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Test Page</title>
+</head>
+<body>
+	<h1>The Heading!!</h1>
+	<p>Its a <b>Paragraph Element</b></p>
+	<a href="https://google.com" target="_blank" title="Google Link">Link n' Stuff</a>
+	<img src="https://www.google.com/search?q=jeb%21+meme&tbm=isch&sxsrf=ALeKk00T-zC3ESF9slPhnxt1NIOk1ck-IA%3A1621449759551&source=hp&biw=1245&bih=772&ei=H1ylYKPKHvTk5NoPv8WHuAM&oq=jeb%21+meme&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQCBAeOgcIIxDqAhAnOgQIIxAnOgUIABCxAzoICAAQsQMQgwFQvBlYvUxg9U9oB3AAeACAAUuIAeYGkgECMTWYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCg&sclient=img&ved=0ahUKEwjj1b6Hs9bwAhV0MlkFHb_iATcQ4dUDCAc&uact=5#imgrc=OythDbjs70UMjM">
+</body>
+</html>
